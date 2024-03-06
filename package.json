@@ -1,0 +1,18 @@
+{
+  "name": "m4-nodejs",
+  "version": "0.0.1",
+  "description": "Este proyecto es para conocer nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "nodejs"
+  ],
+  "author": "Julio Cesar Sanjuan",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
